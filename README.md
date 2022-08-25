@@ -1,8 +1,8 @@
-### Olá! Eu sou o Lucas 👋😀
+### Hello! I'm Lucas 👋😀
 
 
-- 🌱 Atualmente estou estudando React JS
-- 👯 Procuro me tornar um desenvolvedor FullStack 
+- 📒 I'm currently studying React JS and react native
+- 📕 I am looking to become a FullStack developer 
 
 <div>
   <a href="https://github.com/LukasHellanio">
